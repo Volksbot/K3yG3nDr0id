@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">K3yG3nDr0id</string>
+    <string name="action_settings">About</string>
+    <string name="lblAuth">Autor:</string>
+    <string name="pAuthor">Stefanie Königsberg</string>
+    <string name="pVersion">Version:</string>
+    <string name="pKontakt">Fragen oder Anregungen zu dieser App richten Sie an:</string>
+    <string name="pMail">stefanie_koenigsberg@yahoo.de</string>
+    <string name="btnGenerator">Passwort Generator</string>
+    <string name="btnVerwaltung">Konten verwalten</string>
+    <string name="tVWelcome">Hier generieren Sie Ihr Passwort</string>
+    <string name="TxtMP">Master-Passwort</string>
+    <string name="TxtMP2">Master-Passwort (Wiederholung)</string>
+    <string name="TxtEmail">MeineKennung</string>
+    <string name="MPfestlegen">Master Passwort festlegen:</string>
+    <string name="txtDienst">Dienst auswählen:</string>
+    <string name="txtKennung">Kennung:</string>
+    <string name="txtVersion">Version:</string>
+    <string name="txtPasswort">Passwort:</string>
+    <string name="btnGO">GO!</string>
+    <string name="btnInfo">Hilfe</string>
+    <string name="img">ein Bild.</string>
+    <string name="pmnuExit">Exit</string>
+    <string name="txtURL">URL:</string>
+    <string name="TxtSonderzeichen">nicht zu verwendende Sonderzeichen:</string>
+    <string name="txtPWLaenge">Passwortlänge:</string>
+    <string name="actCopy">Zwischenablage</string>
+    <string name="title_activity_password">Password</string>
+    <string name="title_activity_show_konten">ShowKonten</string>
+    <string name="action_new">Konto hinzufügen</string>
+    <string name="title_activity_new_konto">NewKonto</string>
+    <string name="title_activity_edit_konto">EditKonto</string>
+    <string name="pmnuDelete">DeleteKonto</string>
+    <string name="pmnuSave">SaveKonto</string>
+    <string name="txtFldDienstname">Dienst:</string>
+    <string name="txtFldKennung">Kennung:</string>
+    <string name="txtFldURL">URL:</string>
+    <string name="pmnuNew">NewKonto</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_help">Help</string>
+    <string name="pDlgAlertMessage">Fehler! Bitte stellen Sie sicher, dass alle Felder ausgefüllt sind.</string>
+    <string name="pDlgAlertMessagePW">Fehler! Die Eingabe des Master-Passwords stimmt nicht überein.</string>
+    <string name="pDlgAlertMessageActual">Fehler! Daten werden aktualisiert, bitte wiederholen Sie Ihre Eingabe.</string>
+
+</resources>

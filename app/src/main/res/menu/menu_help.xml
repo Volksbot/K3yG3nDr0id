@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ch3f.la.st3f.k3yg3ndr0id.Help">
+
+    <item android:id="@+id/mnuExit"
+        android:title="@string/pmnuExit"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@drawable/ic_clear_white_24dp"/>
+
+</menu>

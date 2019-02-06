@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item android:id="@+id/actExitgen"
+        android:title="@string/pmnuExit"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_clear_white_24dp"
+        />
+
+    <item
+        android:id="@+id/actDelete"
+        android:title="@string/pmnuDelete"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_discard">
+    </item>
+
+
+    <item
+        android:id="@+id/actSave"
+        android:title="@string/pmnuSave"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_accept">
+    </item>
+</menu>
