@@ -1,5 +1,5 @@
 # K3yG3nDr0id
-Passowrtgenerator in Java zum generieren sicherer PW
+Passowortgenerator in Java zum generieren sicherer PW
 
 Sich mit Passwörtern auseinander zu setzen oder gar zu verwalten ist kein aufregender Zeitvertreib. Es gibt viele Vorraussetzungen die für die Zusammensetzung eines sicheren Passwortes notwendig sind, dazu zählen die Länge, ein zufälliger Mix aus Groß- und Kleinbuchstaben, die Beinhaltung von Zahlen und Sonderzeichen etc. Am besten natürlich verwendet man für jeden Dienst ein anderes Passwort und dieses sollte sich der Anwender auch merken. Hier stoßen die meißten User an Ihre Grenzen – verständlicher Weise.
 Ziel dieser Semesterarbeit soll daher sein, eine Android basierte App – bzw. einen Passwort-Generator – zu kreieren, welche Passwörter aus einem einzigen, sicheren Masterpasswort erzeugt. 
